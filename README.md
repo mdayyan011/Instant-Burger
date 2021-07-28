@@ -5,6 +5,6 @@ The website is made keeping the format of the hackathon in mind.
 
 Following are some of the screenshots of the website:
 
-<img src="images/sstwo.jpeg" width="100%" height="100%" />
-<img src="images/ssone.jpeg" width="100%" height="100%" />
-<img src="images/ssthree.jpeg" width="100%" height="100%" />
+<img src="images/sstwo.jpeg" width="80%" height="80%" />
+<img src="images/ssone.jpeg" width="80%" height="80%" />
+<img src="images/ssthree.jpeg" width="80%" height="80%" />
