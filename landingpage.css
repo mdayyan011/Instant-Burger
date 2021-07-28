@@ -147,6 +147,18 @@ html::-webkit-scrollbar-thumb{
   right: 13vw;
   cursor: pointer;
 }
+@media only screen and (max-width:769px){
+.topbutton
+{
+  position: fixed;
+  z-index: 9999;
+  bottom: 2vh;
+  color: #00FF00;
+  font-size: 3.4rem;
+  right: 13vw;
+  cursor: pointer;
+}
+}
 .topbutton:hover{
   transform: scale(0.7);
 }
