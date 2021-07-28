@@ -5,4 +5,4 @@ The website is made keeping the format of the hackathon in mind.
 
 Following are some of the screenshots of the website:
 
-<img src="images/ssone.jpeg" width="50% height="50%">
+<img src="images/ssone.jpeg" width="50% height="50%" />
